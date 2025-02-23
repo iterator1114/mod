@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "public",
+    "isFolder": true,
+    "children": [
+      {
+        "id": 2,
+        "name": "file.svg",
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "components",
+    "isFolder": true,
+    "children": []
+  },
+  {
+    "id": 4,
+    "name": "package.json",
+    "isFolder": false
+  },
+  { "id": 5, "name": "tailwind.config.mjs", "isFolder": false }
+]
