@@ -5,6 +5,7 @@ import Directory from "@/components/directory";
 import ProgressBarContainer from "@/components/progressBar";
 import StarWidget from "@/components/starWidget";
 import ProductWidget from "@/components/pagination";
+import ProductModal from "@/components/productModal";
 
 const Home = () => {
   return (
@@ -13,7 +14,8 @@ const Home = () => {
       {/* <Directory /> */}
       {/* <ProgressBarContainer /> */}
       {/* <StarWidget /> */}
-      <ProductWidget />
+      {/* <ProductWidget /> */}
+      <ProductModal />
     </>
   );
 };
